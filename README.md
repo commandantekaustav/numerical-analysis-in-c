@@ -8,5 +8,3 @@ I'll also include the MATLAB programs later. (as IT or CSE students can only use
 
 Feel free to **share** and **starmark** the repository.
 
-Regards, 
-commie Kay
